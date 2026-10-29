@@ -4,8 +4,6 @@ An interactive **Streamlit** dashboard that analyzes sales, profitability, produ
 
 ---
 
-
-
 ## 📖 Project Overview
 
 Nassau Candy Distributor ships products from multiple factories to customers across US regions and states. This project turns the cleaned order and shipment data into an interactive analytics dashboard that helps stakeholders:
