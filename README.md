@@ -2,11 +2,6 @@
 
 An interactive **Streamlit** dashboard that analyzes sales, profitability, products, factories, customer regions, and factory-to-customer distribution routes for **Nassau Candy Distributor**. Built as part of a **Data Science Internship** project.
 
-![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B?logo=streamlit&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-Interactive%20Charts-3F4F75?logo=plotly&logoColor=white)
-
 ---
 
 
