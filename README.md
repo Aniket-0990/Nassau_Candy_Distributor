@@ -9,30 +9,7 @@ An interactive **Streamlit** dashboard that analyzes sales, profitability, produ
 
 ---
 
-## 📌 Table of Contents
 
-- [🍬 Nassau Candy Distributor: Route Efficiency \& Distribution Analytics Dashboard](#-nassau-candy-distributor-route-efficiency--distribution-analytics-dashboard)
-  - [📌 Table of Contents](#-table-of-contents)
-  - [📖 Project Overview](#-project-overview)
-  - [🎯 Business Objectives](#-business-objectives)
-  - [✨ Key Features](#-key-features)
-  - [🧭 Dashboard Pages](#-dashboard-pages)
-  - [🛠 Tech Stack](#-tech-stack)
-  - [📂 Project Structure](#-project-structure)
-  - [🗃 Dataset \& Required Files](#-dataset--required-files)
-    - [Expected columns in `Nassau_Candy_Cleaned.csv`](#expected-columns-in-nassau_candy_cleanedcsv)
-  - [⚙️ Installation \& Setup](#️-installation--setup)
-    - [1. Clone the repository](#1-clone-the-repository)
-    - [2. (Optional) Create a virtual environment](#2-optional-create-a-virtual-environment)
-    - [3. Install dependencies](#3-install-dependencies)
-    - [4. Add the data files](#4-add-the-data-files)
-  - [▶️ Usage](#️-usage)
-  - [📊 Key Metrics](#-key-metrics)
-  - [⚠️ Data Quality Note](#️-data-quality-note)
-  - [🖼 Screenshots](#-screenshots)
-  - [👩‍💻 Author](#-author)
-
----
 
 ## 📖 Project Overview
 
